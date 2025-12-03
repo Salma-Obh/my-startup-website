@@ -1,0 +1,14 @@
+.btn-blue {
+  background-color: #b67b45; /* couleur cuir caramel */
+  color: white;
+  padding: 15px 30px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 700;
+  font-family: 'Roboto', sans-serif;
+  transition: 0.3s ease;
+}
+
+.btn-blue:hover {
+  background-color: #8c5f32;
+}
